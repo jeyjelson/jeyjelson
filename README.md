@@ -8,15 +8,20 @@
 
 ---
 
-## 🛠️ Projects
+## 🛠️ Software Engineering Projects
 
 - <a href="YOUR_LINK_HERE">Online Marketplace Platform (PHP)</a>
 - <a href="YOUR_LINK_HERE">Fitness Tracker App (Java)</a>
 - <a href="YOUR_LINK_HERE">Coffee Machine Simulation (Python)</a>
-- <a href="YOUR_LINK_HERE">TryHackMe Writeups</a>
+
+---
+
+## 🛡️ Cybersecurity Projects
+
 - <a href="https://tryhackme.com/p/jithinjelson">TryHackMe Profile</a>
-- <a href="YOUR_LINK_HERE">CryptoHack Solutions</a>
+- <a href="YOUR_LINK_HERE">TryHackMe Writeups</a>
 - <a href="https://cryptohack.org/user/JeyJey1204/">CryptoHack Profile</a>
+- <a href="YOUR_LINK_HERE">CryptoHack Solutions</a>
 
 ---
 
