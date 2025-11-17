@@ -29,7 +29,4 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jithin-jelson-6b10a7269/"><img width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
-  <a href="https://tryhackme.com/p/jithinjelson"><img width="30" src="https://tryhackme.com/img/favicon.png"></a>
-  <a href="https://cryptohack.org/user/JeyJey1204/"><img width="30" src="https://cryptohack.org/static/favicon/favicon.ico"></a>
-  <a href="mailto:jithinjelson@gmail.com"><img width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"></a>
 </p>
