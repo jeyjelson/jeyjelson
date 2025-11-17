@@ -1,8 +1,3 @@
-<!-- PROFILE PICTURE -->
-<p align="center">
-  <img src="YOUR_PROFILE_PIC_URL_HERE" alt="Profile Picture" width="150" style="border-radius: 50%;">
-</p>
-
 <h1 align="center">Hi, I'm Jithin Jelson 👋</h1>
 <h3 align="center">Software Engineer • Cybersecurity Student • Developer</h3>
 
