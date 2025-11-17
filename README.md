@@ -13,6 +13,8 @@
 
 ## 🛡️ Cybersecurity Projects
 - <a href="https://github.com/jeyjelson/CryptoHackWriteups">CryptoHack Write-Ups</a>
+- <a href="https://github.com/jeyjelson/WebApplicationVulnerabilities/">Web App Security Audit & Vulnerability Fixes (Flask)</a>
+
 
 ---
 
