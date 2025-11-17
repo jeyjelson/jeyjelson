@@ -10,8 +10,8 @@
 
 ## 🛠️ Software Engineering Projects
 
-- <a href="YOUR_LINK_HERE">Online Marketplace Platform (PHP)</a>
-- <a href="YOUR_LINK_HERE">Fitness Tracker App (Java)</a>
+- <a href="https://github.com/QtKaii/2module-project">E-commerce Platform (PHP / JavaScript / SQL/ HTML)</a>
+- <a href="https://github.com/jeyjelson/FitnessTracker">Fitness Tracker App (Java)</a>
 - <a href="YOUR_LINK_HERE">Coffee Machine Simulation (Python)</a>
 
 ---
