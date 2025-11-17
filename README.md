@@ -17,11 +17,7 @@
 ---
 
 ## 🛡️ Cybersecurity Projects
-
-- <a href="https://tryhackme.com/p/jithinjelson">TryHackMe Profile</a>
-- <a href="YOUR_LINK_HERE">TryHackMe Writeups</a>
-- <a href="https://cryptohack.org/user/JeyJey1204/">CryptoHack Profile</a>
-- <a href="YOUR_LINK_HERE">CryptoHack Solutions</a>
+- <a href="https://github.com/jeyjelson/CryptoHackWriteups">CryptoHack Write-Ups</a>
 
 ---
 
