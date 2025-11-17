@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jithin Jelson 👋</h1>
-<h3 align="center">Software Engineer • Cybersecurity Student • Developer</h3>
+<h3 align="center"> Cybersecurity Student</h3>
 
 ---
 
