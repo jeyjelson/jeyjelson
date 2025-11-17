@@ -3,7 +3,7 @@
 
 ---
 
-## 🛠️ Software Engineering Projects
+## Coding Projects
 
 - <a href="https://github.com/QtKaii/2module-project">E-commerce Platform (PHP / JavaScript / SQL/ HTML)</a>
 - <a href="https://github.com/jeyjelson/FitnessTracker">Fitness Tracker App (Java)</a>
@@ -12,7 +12,7 @@
 
 ---
 
-## 🛡️ Cybersecurity Projects
+## Cybersecurity Projects
 - <a href="https://github.com/jeyjelson/CryptoHackWriteups">CryptoHack Write-Ups</a>
 - <a href="https://github.com/jeyjelson/WebApplicationVulnerabilities/">Web Application Security Audit & Vulnerability Fixes (Flask)</a>
 
