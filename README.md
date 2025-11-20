@@ -15,6 +15,7 @@
 ## Cybersecurity Projects
 - <a href="https://github.com/jeyjelson/CryptoHackWriteups">CryptoHack Write-Ups</a>
 - <a href="https://github.com/jeyjelson/WebApplicationVulnerabilities/">Web Application Security Audit & Vulnerability Fixes (Flask)</a>
+- <a href="https://github.com/jeyjelson/WazuhDeployment/">SIEM Deployment Using Wazuh (Ubuntu, Windows)</a>
 
 
 ---
