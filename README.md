@@ -9,6 +9,7 @@
 - <a href="https://github.com/jeyjelson/FitnessTracker">Fitness Tracker App (Java)</a>
 - <a href="https://github.com/jeyjelson/PythonProjects">Python Mini Projects(Python)</a>
 - <a href="https://github.com/jeyjelson/JavaProjects"> Java Mini Projects(Java)</a>
+- <a href="https://github.com/jeyjelson/AiResumeAnalyser">AI Resume Analyser & ATS Simulation Platform(Python, Streamlit, OpenAI API, PyPDF2, AWS EC2, Linux, NLP, Cloud Deployment)</a>
 
 ---
 
