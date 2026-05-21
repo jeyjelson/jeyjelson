@@ -17,7 +17,7 @@
 - <a href="https://github.com/jeyjelson/CryptoHackWriteups">CryptoHack Write-Ups</a>
 - <a href="https://github.com/jeyjelson/WebApplicationVulnerabilities/">Web Application Security Audit & Vulnerability Fixes (Flask)</a>
 - <a href="https://github.com/jeyjelson/WazuhDeployment/">SIEM Deployment Using Wazuh (Ubuntu, Windows)</a>
-- <a href="https://github.com/jeyjelson/THM-Writeup"> TryHackMe Write ups</a>
+- <a href="https://github.com/jeyjelson/THM_Writeup"> TryHackMe Write ups</a>
 
 
 ---
