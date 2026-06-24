@@ -1,29 +1,47 @@
-<h1 align="center">Hi, I'm Jithin Jelson </h1>
-<h3 align="center"> Cybersecurity Student</h3>
-
+<h1 align="center">Hi, I'm Jithin Jelson</h1>
+<h3 align="center">Cybersecurity Student - Dublin, Ireland</h3>
+ 
 ---
-
-## Coding Projects
-
-- <a href="https://github.com/QtKaii/2module-project">E-commerce Platform (PHP / JavaScript / SQL/ HTML)</a>
-- <a href="https://github.com/jeyjelson/FitnessTracker">Fitness Tracker App (Java)</a>
-- <a href="https://github.com/jeyjelson/PythonProjects">Python Mini Projects(Python)</a>
-- <a href="https://github.com/jeyjelson/JavaProjects"> Java Mini Projects(Java)</a>
-- <a href="https://github.com/jeyjelson/AiResumeAnalyser">AI Resume Analyser & ATS Simulation Platform(Python, Streamlit, OpenAI API, PyPDF2, AWS EC2, Linux, NLP, Cloud Deployment)</a>
-
+ 
+Cybersecurity student into offensive security and pentesting. I spend most of my time on HackTheBox and TryHackMe boxes and write up every one I do. I've also done some blue team work (SIEM, detection) to see how attacks look from the other side. Finishing my BSc and after a security internship or grad role.
+ 
 ---
+ 
+## HackTheBox & TryHackMe Write-Ups
+ 
+Write-ups for the boxes and challenges I've done - how I enumerated, what I exploited, and how I got root.
+ 
+**[➜ Browse all write-ups](https://github.com/jeyjelson/THM_Writeup)**
+ 
+Recent boxes:
+ 
+| Box | Platform | Difficulty | Key techniques |
+|-----|----------|------------|----------------|
+| Recruit | TryHackMe | Intermediate | Enumeration, LFI, SQL injection |
+| Nessus Skills Assessment | HTB Academy | Easy | Authenticated vulnerability scanning |
+| OpenVAS Skills Assessment | HTB Academy | Easy | Vulnerability scanning, reporting |
 
-## Cybersecurity Projects
-- <a href="https://github.com/jeyjelson/CryptoHackWriteups">CryptoHack Write-Ups</a>
-- <a href="https://github.com/jeyjelson/WebApplicationVulnerabilities/">Web Application Security Audit & Vulnerability Fixes (Flask)</a>
-- <a href="https://github.com/jeyjelson/WazuhDeployment/">SIEM Deployment Using Wazuh (Ubuntu, Windows)</a>
-- <a href="https://github.com/jeyjelson/THM_Writeup"> HackTheBox/TryHackMe Write ups</a>
-
-
+ 
 ---
-
-## 📬 Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/jithin-jelson-6b10a7269/"><img width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
-</p>
+ 
+## Other Security Projects
+ 
+- **[SIEM Deployment with Wazuh](https://github.com/jeyjelson/WazuhDeployment/)** (Ubuntu, Windows)
+  Deployed a Wazuh manager (Ubuntu) with a Windows agent for centralised log monitoring. Built and tested detection for failed RDP logins, file integrity monitoring, CIS benchmark auditing, and CVE vulnerability detection.
+- **[CryptoHack Write-Ups](https://github.com/jeyjelson/CryptoHackWriteups)**
+  Solved cryptography challenges across RSA, symmetric ciphers, XOR, modular arithmetic, and web crypto (JWTs), with documented attacks and solutions.
+- **[Web Application Security Audit](https://github.com/jeyjelson/WebApplicationVulnerabilities/)** (Flask, team project)
+  Found and patched OWASP Top 10 vulnerabilities in a Flask app: broken access control, IDOR, SQL injection, stored and reflected XSS, path traversal, open redirect, plaintext passwords, clickjacking, and debug-mode RCE. Each documented with the vulnerable code, the exploit, and the fix.
+---
+ 
+## Development Projects
+ 
+- **[AI Resume Analyser & ATS Simulator](https://github.com/jeyjelson/AiResumeAnalyser)** (Python, Streamlit, OpenAI API, AWS EC2)
+  Web app that parses a PDF or text resume, runs an ATS section check, and uses the OpenAI API to score the resume against a target job role and return keyword gaps and structured feedback. Deployed to AWS EC2 on Linux.
+---
+ 
+## Connect
+ 
+- LinkedIn: [in/jithin-jelson](https://www.linkedin.com/in/jithin-jelson-6b10a7269/)
+- Email: jithinjelson@gmail.com
+ 
