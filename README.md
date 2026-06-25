@@ -20,6 +20,7 @@ Recent boxes:
 | Recruit | TryHackMe | Intermediate | Enumeration, LFI, SQL injection |
 | Nessus Skills Assessment | HTB Academy | Easy | Authenticated vulnerability scanning |
 | OpenVAS Skills Assessment | HTB Academy | Easy | Vulnerability scanning, reporting |
+| Validation | HTB Labs | Easy | SQL injection, web shell, privilege escalation |
 
  
 ---
