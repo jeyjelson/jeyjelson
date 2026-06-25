@@ -21,6 +21,7 @@ Recent boxes:
 | Nessus Skills Assessment | HTB Academy | Easy | Authenticated vulnerability scanning |
 | OpenVAS Skills Assessment | HTB Academy | Easy | Vulnerability scanning, reporting |
 | Validation | HTB Labs | Easy | SQL injection, web shell, privilege escalation |
+| ContAInment | TryHackMe | Intermediate | Phishing analysis, PCAP forensics, prompt injection, LLM exploitation |
 
  
 ---
