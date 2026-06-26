@@ -30,8 +30,6 @@ Recent boxes:
  
 - **[SIEM Deployment with Wazuh](https://github.com/jeyjelson/WazuhDeployment/)** (Ubuntu, Windows)
   Deployed a Wazuh manager (Ubuntu) with a Windows agent for centralised log monitoring. Built and tested detection for failed RDP logins, file integrity monitoring, CIS benchmark auditing, and CVE vulnerability detection.
-- **[CryptoHack Write-Ups](https://github.com/jeyjelson/CryptoHackWriteups)**
-  Solved cryptography challenges across RSA, symmetric ciphers, XOR, modular arithmetic, and web crypto (JWTs), with documented attacks and solutions.
 - **[Web Application Security Audit](https://github.com/jeyjelson/WebApplicationVulnerabilities/)** (Flask, team project)
   Found and patched OWASP Top 10 vulnerabilities in a Flask app: broken access control, IDOR, SQL injection, stored and reflected XSS, path traversal, open redirect, plaintext passwords, clickjacking, and debug-mode RCE. Each documented with the vulnerable code, the exploit, and the fix.
 ---
