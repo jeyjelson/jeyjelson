@@ -22,6 +22,7 @@ Recent boxes:
 | OpenVAS Skills Assessment | HTB Academy | Easy | Vulnerability scanning, reporting |
 | Validation | HTB Labs | Easy | SQL injection, web shell, privilege escalation |
 | ContAInment | TryHackMe | Intermediate | Phishing analysis, PCAP forensics, prompt injection, LLM exploitation |
+|XSS Phishing | HTB Academy | Easy | Cross-site scripting, phishing form injection, credential harvesting |
 
  
 ---
