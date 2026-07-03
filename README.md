@@ -31,6 +31,8 @@ Recent boxes:
  
 - **[SIEM Deployment with Wazuh](https://github.com/jeyjelson/WazuhDeployment/)** (Ubuntu, Windows)
   Deployed a Wazuh manager (Ubuntu) with a Windows agent for centralised log monitoring. Built and tested detection for failed RDP logins, file integrity monitoring, CIS benchmark auditing, and CVE vulnerability detection.
+- **[Bayesian Spam Filter: SMS Threat Classification (in progress)](https://github.com/jeyjelson/BayesianSpamFilter)** (Python, pandas, scikit-learn)
+  in the process of building a Bayes spam classifier on the SMS Spam Collection dataset, covering data cleaning, text vectorization, and model evaluation to flag spam vs legitimate messages.
 - **[Web Application Security Audit](https://github.com/jeyjelson/WebApplicationVulnerabilities/)** (Flask, team project)
   Found and patched OWASP Top 10 vulnerabilities in a Flask app: broken access control, IDOR, SQL injection, stored and reflected XSS, path traversal, open redirect, plaintext passwords, clickjacking, and debug-mode RCE. Each documented with the vulnerable code, the exploit, and the fix.
 ---
