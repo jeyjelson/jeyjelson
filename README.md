@@ -14,16 +14,17 @@ Write-ups for the boxes and challenges I've done - how I enumerated, what I expl
 **[➜ Browse all write-ups](https://github.com/jeyjelson/THM_Writeup)**
  
 Recent boxes:
- 
+
 | Box | Platform | Difficulty | Key techniques |
 |-----|----------|------------|----------------|
-| Recruit | TryHackMe | Intermediate | Enumeration, LFI, SQL injection |
-| Nessus Skills Assessment | HTB Academy | Easy | Authenticated vulnerability scanning |
-| OpenVAS Skills Assessment | HTB Academy | Easy | Vulnerability scanning, reporting |
-| Validation | HTB Labs | Easy | SQL injection, web shell, privilege escalation |
+| Server-Side Attacks Skills Assessment | Hack The Box | Intermediate | SSRF, SSTI, Twig RCE, ffuf, Burp Suite |
 | ContAInment | TryHackMe | Intermediate | Phishing analysis, PCAP forensics, prompt injection, LLM exploitation |
-| XSS Phishing | HTB Academy | Intermediate | Cross-site scripting, phishing form injection, credential harvesting |
-| Session Hijacking | HTB Academy | Intermediate | Blind XSS, cookie theft, session hijacking |
+| Headless | HTB Labs | Easy | Header-based XSS, blind XSS cookie theft, command injection, relative-path privilege escalation |
+| SSTI Exploitation Jinja2 Flask | HTB Academy | Easy | Jinja2 SSTI, config.items disclosure, __builtins__ enumeration, LFI via open, os.popen RCE |
+| Identifying and Exploiting an XSLT Injection | Hack The Box | Easy | XSLT injection, system-property fingerprinting, libxslt, php:function, file_get_contents LFI, system() RCE |
+| Incident Handling | HTB Academy | Easy | TheHive triage, VirusTotal enrichment, MITRE ATT&CK mapping, Base64 PowerShell decoding |
+| Recruit | TryHackMe | Intermediate | Enumeration, LFI, SQL injection |
+| Validation | HTB Labs | Easy | SQL injection, web shell, privilege escalation |
  
 ---
  
