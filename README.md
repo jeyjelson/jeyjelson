@@ -7,9 +7,9 @@ Cybersecurity student into offensive security and pentesting. I spend most of my
  
 ---
  
-## HackTheBox & TryHackMe Write-Ups
- 
-Write-ups for the boxes and challenges I've done - how I enumerated, what I exploited, and how I got root.
+## Penetration Testing & Security Write-Ups
+
+Write-ups for the boxes, labs, and challenges I've worked through on HackTheBox, TryHackMe, and PortSwigger - how I enumerated, what I exploited, and how I got in.
  
 **[➜ Browse all write-ups](https://github.com/jeyjelson/THM_Writeup)**
  
