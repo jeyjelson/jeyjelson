@@ -42,7 +42,7 @@ Recent boxes:
  
 - **[AI Resume Analyser & ATS Simulator](https://github.com/jeyjelson/AiResumeAnalyser)** (Python, Streamlit, OpenAI API, AWS EC2)
   Web app that parses a PDF or text resume, runs an ATS section check, and uses the OpenAI API to score the resume against a target job role and return keyword gaps and structured feedback. Deployed to AWS EC2 on Linux.
- - **[CyberWatch - Full-Stack Threat Intelligence Platform](https://github.com/jeyjelson/cyberwatch)** (React, Vite, GPT-4o, Web Scraping)
+ - **[CyberWatch - Full-Stack Threat Intelligence Platform](https://github.com/jeyjelson/)** (React, Vite, GPT-4o, Web Scraping)
   *Work in Progress:* Building a real-time platform that concurrently scrapes 7 live security sources to generate GPT-4o-powered executive briefs. Features AI severity scoring, trending attack detection, and a React UI with streaming technical deep-dives and verified source attribution.
   .
 ---
