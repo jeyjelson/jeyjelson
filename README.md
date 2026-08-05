@@ -23,7 +23,6 @@ Recent boxes:
 | SSTI Exploitation Jinja2 Flask | HTB Academy | Easy | Jinja2 SSTI, config.items disclosure, __builtins__ enumeration, LFI via open, os.popen RCE |
 | Identifying and Exploiting an XSLT Injection | Hack The Box | Easy | XSLT injection, system-property fingerprinting, libxslt, php:function, file_get_contents LFI, system() RCE |
 | Incident Handling | HTB Academy | Easy | TheHive triage, VirusTotal enrichment, MITRE ATT&CK mapping, Base64 PowerShell decoding |
-| Recruit | TryHackMe | Intermediate | Enumeration, LFI, SQL injection |
 | Validation | HTB Labs | Easy | SQL injection, web shell, privilege escalation |
  
 ---
