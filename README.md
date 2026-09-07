@@ -14,20 +14,16 @@ Write-ups for the boxes, labs, and challenges I've worked through on HackTheBox,
 **[➜ Browse all write-ups](https://github.com/jeyjelson/THM_Writeup)**
  
 Recent boxes:
-  | Box | Platform | Difficulty | Key techniques |
-  |-----|----------|------------|----------------|
-  | Bank | Hack The Box | Easy | Burp match & replace (302→200), file upload bypass, web shell, linpeas, `/etc/passwd` privesc to root
-  |
-  | Broken Object Level Authorization | HTB Academy | Easy | JWT role tampering, sequential ID enumeration (Intruder), BOLA on
-  financial reports |
-  | Broken Object Property Level Authorization | HTB Academy | Easy | Mass assignment via extra JSON properties, PII exposure,
-  privilege escalation |
-  | Bypassing Whitelist Filters for File Upload Attacks | Hack The Box | Easy | Phar/JPG polyglot upload, MIME/extension whitelist
-  bypass, RCE via web shell |
-  | XXE via SVG Upload Against a Secure File Server | Hack The Box | Easy | XXE injection via SVG upload, hardened file-server bypass,
-  external entity file disclosure |
-  | Server-Side Attacks Skills Assessment | Hack The Box | Intermediate | SSRF, SSTI, Twig RCE, ffuf, Burp Suite |
-  | ContAInment | TryHackMe | Intermediate | Phishing analysis, PCAP forensics, prompt injection, LLM exploitation |
+
+| Box | Platform | Difficulty | Key techniques |
+|-----|----------|------------|----------------|
+| Bank | Hack The Box | Easy | Burp match & replace (302→200), file upload bypass, web shell, linpeas, `/etc/passwd` privesc to root |
+| Broken Object Level Authorization | HTB Academy | Easy | JWT role tampering, sequential ID enumeration (Intruder), BOLA on financial reports |
+| Broken Object Property Level Authorization | HTB Academy | Easy | Mass assignment via extra JSON properties, PII exposure, privilege escalation |
+| Bypassing Whitelist Filters for File Upload Attacks | Hack The Box | Easy | Phar/JPG polyglot upload, MIME/extension whitelist bypass, RCE via web shell |
+| XXE via SVG Upload Against a Secure File Server | Hack The Box | Easy | XXE injection via SVG upload, hardened file-server bypass, external entity file disclosure |
+| Server-Side Attacks Skills Assessment | Hack The Box | Intermediate | SSRF, SSTI, Twig RCE, ffuf, Burp Suite |
+| ContAInment | TryHackMe | Intermediate | Phishing analysis, PCAP forensics, prompt injection, LLM exploitation |
 ---
  
 ## Other Security Projects
